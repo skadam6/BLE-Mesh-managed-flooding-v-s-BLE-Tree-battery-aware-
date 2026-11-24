@@ -1,0 +1,11 @@
+Configuration,PDR,Esucc_value,Esucc_unit
+Tree: battery,0.9506,22.83,uJ
+Tree: link quality,0.9521,22.85,uJ
+Tree: hybrid,0.949,22.93,uJ
+Mesh: degree,0.9991,3.46,mJ
+Mesh: battery,0.9998,2.17,mJ
+Mesh: random,0.9998,2.16,mJ
+TTL 4/6/8,0.9991,3.46,mJ
+1 relay transmission,0.9991,3.48,mJ
+2 relay transmissions,0.9984,6.85,mJ
+3 relay transmissions,0.9973,10.18,mJ

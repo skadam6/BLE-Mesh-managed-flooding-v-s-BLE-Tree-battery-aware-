@@ -1,0 +1,13 @@
+Parameter,Default / sweep
+Deployment area,100 x 100 m^2
+Number of BLE nodes N,10:10:200; default 80
+"Pt, Pmin","0 dBm, -90 dBm"
+"PL(d0), d0, eta","40 dB, 1 m, 3.0"
+Shadowing / packet variation,3 dB / 2.5 dB
+BLE PHY / on-air packet,1 Mbit/s / 47 bytes
+"V, Itx, Irx, Rmin","3 V, 4.8 mA, 4.6 mA, 0.95"
+Source rate lambda,0.02-2 packet/s/node; default 0.1
+Mesh relay fraction rho_R / TTL,0.40 / 6
+Forwarding unavailability p_f,0:0.05:0.50; default 0.05
+Main / map trials,100 / 60
+Sensitivity trials,120-300 per point
